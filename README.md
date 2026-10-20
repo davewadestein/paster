@@ -1,1 +1,2 @@
 # paster
+command
